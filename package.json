@@ -1,0 +1,22 @@
+{
+  "name": "react-umd-example",
+  "version": "1.0.0",
+  "description": "Example of running a UMD React component built with nwb",
+  "main": "react-auto-form.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryhouse/react-umd-example.git"
+  },
+  "author": "Cory House",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coryhouse/react-umd-example/issues"
+  },
+  "homepage": "https://github.com/coryhouse/react-umd-example#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
